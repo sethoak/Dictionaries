@@ -1,0 +1,3 @@
+C:\Users\Oakley\Desktop\workspace\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.csprojAssemblyReference.cache
+C:\Users\Oakley\Desktop\workspace\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.AssemblyInfoInputs.cache
+C:\Users\Oakley\Desktop\workspace\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.AssemblyInfo.cs
