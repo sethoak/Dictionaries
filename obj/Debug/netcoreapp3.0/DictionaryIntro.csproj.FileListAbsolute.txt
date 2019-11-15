@@ -1,3 +1,11 @@
 C:\Users\Oakley\Desktop\workspace\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.csprojAssemblyReference.cache
 C:\Users\Oakley\Desktop\workspace\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.AssemblyInfoInputs.cache
 C:\Users\Oakley\Desktop\workspace\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.AssemblyInfo.cs
+C:\Users\Oakley\Desktop\workspace\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.exe
+C:\Users\Oakley\Desktop\workspace\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.deps.json
+C:\Users\Oakley\Desktop\workspace\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.runtimeconfig.json
+C:\Users\Oakley\Desktop\workspace\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.runtimeconfig.dev.json
+C:\Users\Oakley\Desktop\workspace\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.dll
+C:\Users\Oakley\Desktop\workspace\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.pdb
+C:\Users\Oakley\Desktop\workspace\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.dll
+C:\Users\Oakley\Desktop\workspace\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.pdb
